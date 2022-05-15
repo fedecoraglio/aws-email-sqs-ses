@@ -1,4 +1,4 @@
-# Electronneek email service
+# Email service
 
 Project to handler email
 
