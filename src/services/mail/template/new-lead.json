@@ -1,0 +1,7 @@
+{
+  "Template": {
+    "TemplateName": "new_lead",
+    "SubjectPart": "You have a new lead",
+    "HtmlPart": "<p>Hi {{ name }},</p><p>A new lead has been added to the system. Click  <a href='{{ url }}'>here</a> to see more details.<p>If you want to stop receiving email notifications about new leads,  <a href='{{ urlNotification }}'>Disable</a> it in the settings."
+  }
+}
